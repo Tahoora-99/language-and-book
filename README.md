@@ -8,4 +8,4 @@ There are different section on website and anyone can create an own page by crea
 
 ## Requirements
 I will use Sqlachemy to control database access and save time, also HTML and CSS to display the application templates and Python to display the application .
-obviously i need Javascript to make the application interactive
+obviously I need Javascript to make the application interactive
